@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-A simple path conversion package to convert paths across different platform
+	<b>A simple path conversion package to convert your paths across different platform</b>
 </p>
 
 - **Simple**: extremely simple to use
