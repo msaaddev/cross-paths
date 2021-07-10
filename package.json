@@ -1,6 +1,6 @@
 {
 	"name": "cross-paths",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Converts paths from darwin to win32 platform and vice versa",
 	"repository": "https://github.com/msaaddev/cross-paths",
 	"author": {
@@ -14,6 +14,9 @@
 		"format": "prettier --write \"./**/*.{js,json}\"",
 		"test": "node test.js"
 	},
+	"files": [
+		"index.js"
+	],
 	"keywords": [
 		"cross paths",
 		"windows to unix paths",
