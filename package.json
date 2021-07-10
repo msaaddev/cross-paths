@@ -14,7 +14,15 @@
 		"format": "prettier --write \"./**/*.{js,json}\"",
 		"test": "node test.js"
 	},
-	"keywords": [],
+	"keywords": [
+		"cross paths",
+		"windows to unix paths",
+		"unix to windows path",
+		"path converter",
+		"convert paths",
+		"Saad Irfan",
+		"msaaddev"
+	],
 	"devDependencies": {
 		"prettier": "^2.3.2"
 	},
