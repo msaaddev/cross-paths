@@ -1,20 +1,24 @@
 {
-	"name": "",
+	"name": "cross-paths",
 	"version": "1.0.0",
-	"description": "",
-	"repository": "",
+	"description": "Converts paths from unix to win32 platform and vice versa",
+	"repository": "https://github.com/msaaddev/cross-paths",
 	"author": {
-		"name": "",
-		"email": "",
-		"url": ""
+		"name": "Saad Irfan",
+		"email": "me@msaad.dev",
+		"url": "https://twitter.com/msaaddev"
 	},
 	"main": "index.js",
 	"license": "MIT",
 	"scripts": {
-		"format": "prettier --write \"./**/*.{js,json}\""
+		"format": "prettier --write \"./**/*.{js,json}\"",
+		"test": "node test.js"
 	},
 	"keywords": [],
 	"devDependencies": {
 		"prettier": "^2.3.2"
+	},
+	"dependencies": {
+		"upath": "^2.0.1"
 	}
 }
