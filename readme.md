@@ -10,12 +10,12 @@
 	<b>A simple path conversion package to convert your paths across different platform</b>
 </p>
 
+![separator](assets/separate.jpg)
+
 - **Simple**: extremely simple to use
 - **Darwin to Win32**: Convert your darwin based operating system paths to Windows operating system
 - **Win32 to Darwin**: Convert your Windows paths to darwin based operating system
 - **MIT Licensed**: Free to use for personal and commercial projects
-
-![separator](assets/separate.jpg)
 
 <br>
 
