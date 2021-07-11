@@ -1,6 +1,6 @@
 {
 	"name": "cross-paths",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Converts paths from darwin to win32 platform and vice versa",
 	"repository": "https://github.com/msaaddev/cross-paths",
 	"author": {
