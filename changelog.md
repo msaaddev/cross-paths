@@ -1,5 +1,10 @@
 ## Change across different version of cross-paths
 
+### v1.0.4
+
+- Improved error handling
+- Improved documentation
+
 ### v1.0.1
 
 - Converts Unix paths to Win32 platform
